@@ -1,0 +1,45 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"ZW_vsRLvVR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\">Training Cre8tiv-maxx</span>\",\"col\":12}},{\"id\":\"JTE5A57zDA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Session\",\"col\":3}},{\"id\":\"4wvCQGlteq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Feedback\",\"col\":3}}]",
+ "creation": "2026-01-18 14:48:08.695827",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "color-review-points",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Training Cre8tiv-maxx",
+ "links": [],
+ "modified": "2026-01-18 14:49:57.093942",
+ "modified_by": "Administrator",
+ "module": "Training Rate",
+ "name": "Training Cre8tiv-maxx",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Training Session",
+   "link_to": "Training Session",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Training Feedback",
+   "link_to": "Training Feedback",
+   "type": "DocType"
+  }
+ ],
+ "title": "Training Cre8tiv-maxx"
+}
