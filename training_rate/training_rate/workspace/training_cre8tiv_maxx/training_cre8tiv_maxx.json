@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"ZW_vsRLvVR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\">Training Cre8tiv-maxx</span>\",\"col\":12}},{\"id\":\"JTE5A57zDA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Session\",\"col\":3}},{\"id\":\"4wvCQGlteq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Feedback\",\"col\":3}}]",
+ "content": "[{\"id\":\"ZW_vsRLvVR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\">Training Cre8tiv-maxx</span>\",\"col\":12}},{\"id\":\"JTE5A57zDA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Session\",\"col\":3}},{\"id\":\"4wvCQGlteq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Feedback\",\"col\":3}},{\"id\":\"TL0c1jwxR1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Rate Config\",\"col\":3}}]",
  "creation": "2026-01-18 14:48:08.695827",
  "custom_blocks": [],
  "docstatus": 0,
@@ -13,7 +13,7 @@
  "is_hidden": 0,
  "label": "Training Cre8tiv-maxx",
  "links": [],
- "modified": "2026-01-18 14:49:57.093942",
+ "modified": "2026-01-18 16:07:36.272957",
  "modified_by": "Administrator",
  "module": "Training Rate",
  "name": "Training Cre8tiv-maxx",
@@ -25,6 +25,13 @@
  "roles": [],
  "sequence_id": 23.0,
  "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Training Rate Config",
+   "link_to": "Training Rate Config",
+   "type": "DocType"
+  },
   {
    "color": "Grey",
    "doc_view": "List",
