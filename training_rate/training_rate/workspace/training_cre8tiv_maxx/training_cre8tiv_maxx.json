@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"ZW_vsRLvVR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\">Training Cre8tiv-maxx</span>\",\"col\":12}},{\"id\":\"JTE5A57zDA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Session\",\"col\":3}},{\"id\":\"4wvCQGlteq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Feedback\",\"col\":3}},{\"id\":\"TL0c1jwxR1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Rate Config\",\"col\":3}}]",
+ "content": "[{\"id\":\"ZW_vsRLvVR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\">Training Cre8tiv-maxx</span>\",\"col\":12}},{\"id\":\"JTE5A57zDA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Session\",\"col\":3}},{\"id\":\"4wvCQGlteq\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Feedback\",\"col\":3}},{\"id\":\"TL0c1jwxR1\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Training Rate Config\",\"col\":3}},{\"id\":\"7tcNaorjYE\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Survey Template\",\"col\":3}},{\"id\":\"3e6xuoUH0I\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\" data--h-bstatus=\\\"0OBSERVED\\\"><b data--h-bstatus=\\\"0OBSERVED\\\">Survey</b></span>\",\"col\":12}},{\"id\":\"o25nDNy6Sg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Survey Template\",\"col\":3}},{\"id\":\"NQsGPgSYNg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Question Survey\",\"col\":3}}]",
  "creation": "2026-01-18 14:48:08.695827",
  "custom_blocks": [],
  "docstatus": 0,
@@ -13,7 +13,7 @@
  "is_hidden": 0,
  "label": "Training Cre8tiv-maxx",
  "links": [],
- "modified": "2026-01-18 16:07:36.272957",
+ "modified": "2026-01-19 14:12:02.645641",
  "modified_by": "Administrator",
  "module": "Training Rate",
  "name": "Training Cre8tiv-maxx",
@@ -35,8 +35,24 @@
   {
    "color": "Grey",
    "doc_view": "List",
+   "label": "Survey Template",
+   "link_to": "Survey Template",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
    "label": "Training Session",
    "link_to": "Training Session",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Question Survey",
+   "link_to": "Question Survey",
    "stats_filter": "[]",
    "type": "DocType"
   },

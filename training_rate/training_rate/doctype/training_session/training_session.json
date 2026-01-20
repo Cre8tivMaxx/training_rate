@@ -8,9 +8,10 @@
  "field_order": [
   "section_break_167e",
   "training_topic",
-  "date",
+  "survey_template",
   "column_break_ksjy",
   "trainer",
+  "date",
   "amended_from"
  ],
  "fields": [
@@ -53,6 +54,12 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
+  },
+  {
+   "fieldname": "survey_template",
+   "fieldtype": "Link",
+   "label": "Survey Template",
+   "options": "Survey Template"
   }
  ],
  "grid_page_length": 50,
@@ -64,7 +71,7 @@
    "link_fieldname": "session"
   }
  ],
- "modified": "2026-01-18 15:53:58.155774",
+ "modified": "2026-01-20 11:12:59.130874",
  "modified_by": "Administrator",
  "module": "Training Rate",
  "name": "Training Session",
