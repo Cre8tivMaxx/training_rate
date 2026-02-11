@@ -1,1 +1,5 @@
-[] send rate to the trainer
+[x] send rate to the trainer
+[] Add Scheduler event to remove ended Survey Templates
+[] Move end date from survey template into training session
+[] Change the name of training session, training feedback, into more wide name that covers courses, leactures, education.
+
